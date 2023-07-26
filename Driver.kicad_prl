@@ -63,8 +63,8 @@
       36,
       40
     ],
-    "visible_layers": "ffcffff_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffdffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "Driver.kicad_prl",
