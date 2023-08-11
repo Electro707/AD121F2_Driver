@@ -1,5 +1,5 @@
 # Exclude generated gerbers
-Gerbers
+Gerber
 # Any generated files in this directory
 *.zip
 *.pdf
